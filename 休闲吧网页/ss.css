@@ -1,0 +1,16 @@
+
+
+h1,h2 {
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: 200;
+}
+p {color: aqua;}
+p.guarantee {color: blue;}
+p#guarantee {color: blueviolet;}
+
+h1 {color: brown;}
+
+body h1 {color: pink;}
