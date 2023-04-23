@@ -1,0 +1,18 @@
+p {color:aqua}
+
+h1, h2{
+  font-weight: 600;
+  }
+
+h1 {
+  font-weight: 200;
+  }
+
+p.guarantee {color: blue;}
+p#guarantee {color: blueviolet;}
+
+h1 {color: purple;}
+
+h2 {color: palevioletred;}
+
+body h1 {color:slateblue;}

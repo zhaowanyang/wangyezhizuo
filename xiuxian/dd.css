@@ -1,0 +1,37 @@
+span.left {
+      margin-right: 10px;
+  }
+  
+  span.right {
+      margin-left: 20px;
+  }
+  
+  span.ruler {
+      display: inline-block;
+      width: 28px;
+      height: 16px;
+      border: 1px solid red;
+  }
+
+  div.right {
+    float: right;
+}
+
+div.block {
+    width: 49vw;
+    height: 20vh;
+    border: 2px solid black;
+}
+
+div.top {
+    margin-bottom: 10px;
+}
+
+div.bottom {
+    margin-top: 20px;
+}
+
+div.ruler {
+    border: 1px solid red;
+    height: 18px;
+}
