@@ -23,6 +23,6 @@ body {
 	width: 200px;
 	height: 200px;
 	background: #a72525;
-	-webkit-border-radius: 100px;
+	-webkit-border-radius: 100px;/*
 	/*-webkit-border-radius: 100%;*/
 }
