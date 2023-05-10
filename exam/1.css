@@ -1,0 +1,25 @@
+body{
+  margin:0;
+  padding: 0;
+  }
+
+.one{
+  float: left;
+  display: inline;
+  width: 50%;
+  height: 50vh;
+}
+
+.two{
+  float: right;
+  height: 100vh;
+  width: 50%;
+}
+
+.three{
+  float: left;
+  width: 50%;
+  height: 50vh;
+}
+
+
