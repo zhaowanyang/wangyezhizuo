@@ -1,0 +1,51 @@
+
+$(function(){
+	var swiper = new Swiper('.swiper-container', {
+	  navigation: {
+		nextEl: '.swiper-button-next',
+		prevEl: '.swiper-button-prev',
+	  },
+	 pagination: {
+		  el: '.swiper-pagination',
+		  type: 'progressbar',
+	 },
+	breakpoints: {
+				90000: {
+					slidesPerView: 1.3,
+				},
+				900: {
+					slidesPerView: 1.1,
+				}
+	},
+	centeredSlides: true,
+	loop: false,
+	watchOverflow: true,
+		
+	});
+	
+	/*
+window.addEventListener('DOMContentLoaded', function() {
+  var swiper06Main = new Swiper ('.sample06 .main', {
+    pagination: '.swiper-pagination',
+    paginationClickable: true,
+    nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+	centeredSlides: true,
+    spaceBetween: 10,
+	slidesPerView: 1.4,
+  })
+
+  var swiper06Thumb = new Swiper('.sample06 .thumbnail', {
+    spaceBetween: 10,
+    centeredSlides: true,
+    slidesPerView: 8,
+    slideToClickedSlide: true
+  });
+  swiper06Main.params.control = swiper06Thumb;
+  swiper06Thumb.params.control = swiper06Main;
+}, false);*/
+});
+
+
+	
+

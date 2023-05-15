@@ -1,0 +1,20 @@
+/*
+Theme Name: 塩田家具
+Author: NADO
+*/
+.wp_edit_body h3 {
+    font-size: 1.5rem;
+    line-height: 1.8em;
+    letter-spacing: 0.1em;
+    text-align: left;
+    font-family: "A1明朝";
+    margin-bottom: 30px;
+}
+
+.wpcf7c-conf {
+    background-color: #FFF;
+    color: black;
+		border: none;
+    border-left: 1px solid #ccc;
+		outline: none;
+}
