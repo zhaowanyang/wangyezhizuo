@@ -1,8 +1,0 @@
-@font-face {
-  font-family: 'jpfontBold';
-  font-style: bold;
-  font-weight: 100;
-  src: url('../font/gen-gothic-Bold_web.otf') format('opentype'),
-	   url('../font/gen-gothic-Bold_web.woff') format('woff'),
-	   url('../font/gen-gothic-Bold_web.woff2') format('woff2');
-}

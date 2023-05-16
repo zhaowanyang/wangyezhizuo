@@ -21,5 +21,20 @@ body{
   width: 50%;
   height: 50vh;
 }
+.sangexiaotubiao1 {
+  float: left;
+  margin-left: 50px;
+  margin-top: 200px;
+}
+.sangexiaotubiao2 {
+  float: left;
+  margin-left: -47px;
+  margin-top: 240px;
+}
+.sangexiaotubiao3 {
+  float: left;
+  margin-top: 285px;
+  margin-left: -40px;
+}
 
 
